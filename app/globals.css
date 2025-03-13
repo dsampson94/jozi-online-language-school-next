@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@keyframes blue-flash {
+    0% {
+        transform: translateX(-150%) skewX(-25deg);
+    }
+    50% {
+        opacity: 0.4;
+    }
+    100% {
+        transform: translateX(150%) skewX(-25deg);
+        opacity: 0;
+    }
+}
+
+/* Apply this class to the button */
+.shiny-button {
+    position: relative;
+    overflow: hidden; /* Ensure the shine doesn't overflow outside the button */
+}
+
+.shiny-button::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -150%;
+    width: 200%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.2); /* Slight white for the shine */
+    transform: skewX(-25deg); /* Skew for the reflection */
+    animation: blue-flash 4s cubic-bezier(0.4, 0, 0.2, 1) infinite; /* Smooth, longer-lasting animation */
+}
+
+@keyframes bounce-and-rotate {
+    0%, 100% {
+        transform: translateY(0) rotate(0deg);
+    }
+    25% {
+        transform: translateY(-2px) rotate(-10deg);
+    }
+    50% {
+        transform: translateY(0) rotate(0deg);
+    }
+    75% {
+        transform: translateY(2px) rotate(10deg);
+    }
+}
+
+.emoji-hand-left,
+.emoji-hand-right {
+    font-size: 2rem; /* Adjust the size of the hand emojis */
+    animation: bounce-and-rotate 1.2s infinite ease-in-out; /* Bounce and rotate simultaneously */
+}
+
+.emoji-hand-left {
+    animation-direction: alternate; /* Alternate the movement direction for variety */
+}
+
+.emoji-hand-right {
+    animation-direction: alternate-reverse; /* Reverse the animation for the right hand */
+}
