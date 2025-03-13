@@ -31,7 +31,7 @@ export function TeachersProfiles() {
             bio: t('teachers.joelBio'),     // Translated bio
             image: '/',
             video: '',
-            appointletLink: 'https://app.simplymeet.me/convofreaks',
+            appointletLink: '',
         },
         // {
         //     name: 'Callin Ontong',
