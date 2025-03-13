@@ -4,7 +4,7 @@
     "aboutUs": "About Us",
     "teachers": "Teachers",
     "contact": "Contact",
-    "logoAlt": "Convo Freaks Logo",
+    "logoAlt": "Logo",
     "getStarted": "Get Started",
     "logout": "Logout",
     "myAccount": "My Account"
@@ -21,15 +21,15 @@
     "aboutUsDescription": "We are an online English school that helps individuals improve conversational and business English for everyday scenarios.",
     "contactUsTitle": "Contact Us",
     "phone": "+48 501 345 039",
-    "email": "info@convofreaks.com",
+    "email": "info@jozionlinelanguageschool.com",
     "informationTitle": "Information",
     "terms": "Terms and Conditions",
     "privacy": "Privacy Policy",
     "connectWithUsTitle": "Connect with Us",
     "rightsReserved": "All rights reserved.",
-    "logoAlt": "Convo Freaks Logo",
+    "logoAlt": "Logo",
     "copyright":
-    "Copyright © {{year}} Convo Freaks. All rights reserved."
+    "Copyright © {{year}} Jozi Online Language School. All rights reserved."
   },
   "buttons": {
     "getStarted": "Book a lesson",
@@ -104,7 +104,7 @@
   },
   "privacyPolicy": {
     "title": "Privacy Policy",
-    "introduction": "At Convo Freaks, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.",
+    "introduction": "At Jozi Online Language School, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.",
     "sections": {
       "informationWeCollect": "1. Information We Collect",
       "howWeUseYourInformation": "2. How We Use Your Information",
@@ -125,7 +125,7 @@
   },
   "termsAndConditions": {
     "title": "Terms and Conditions",
-    "introduction": "At Convo Freaks, you don't sign a long-term contract. However, you must accept our rules for conducting classes.",
+    "introduction": "At Jozi Online Language School, you don't sign a long-term contract. However, you must accept our rules for conducting classes.",
     "sections": {
       "whatAreOurServices": "1. What are our services?",
       "teachingMaterials": "2. Teaching materials",
@@ -136,7 +136,7 @@
       "complaints": "7. Complaints",
       "importantNotice": "8. Important Notice"
     },
-    "whatAreOurServices": "Convo Freaks offers individual English classes via Google Meet.",
+    "whatAreOurServices": "Jozi Online Language School offers individual English classes via Google Meet.",
     "teachingMaterials": "We provide all necessary teaching materials.",
     "deadlinesAndDelays": "The dates of classes are set individually by the student.",
     "reschedulingClasses": "You have the right to reschedule your classes 24 hours in advance.",

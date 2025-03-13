@@ -10,7 +10,7 @@ export default function PrivacyPolicy() {
                 <div className="max-w-2xl mx-auto">
                     <h1 className="text-3xl font-semibold text-gray-900">Privacy Policy</h1>
                     <p className="mt-4 text-lg text-gray-700">
-                        At Convo Freaks, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
+                        At Jozi Online Language School, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you visit our website or use our services.
                     </p>
 
                     <h2 className="mt-8 text-2xl font-semibold text-gray-900">1. Information We Collect</h2>

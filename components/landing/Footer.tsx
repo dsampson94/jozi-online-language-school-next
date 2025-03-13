@@ -33,7 +33,7 @@ export function Footer() {
                         <p className="mt-2 text-sm text-gray-700">
                             <a href="tel:+48501345039" className="hover:underline">{t('footer.phone')}</a>
                             <br />
-                            <a href="mailto:info@convofreaks.com" className="hover:underline">{t('footer.email')}</a>
+                            <a href="mailto:info@jozionlinelanguageschool.com" className="hover:underline">{t('footer.email')}</a>
                         </p>
                     </div>
                     <div className="text-center lg:text-left">
@@ -51,27 +51,27 @@ export function Footer() {
                     <div className="text-center lg:text-left">
                         <h3 className="font-semibold text-gray-900">{t('footer.connectWithUsTitle')}</h3>
                         <div className="mt-4 flex justify-center lg:justify-start gap-6">
-                            <Link href="https://www.facebook.com/convofreaks.angielski" target="_blank" aria-label="Facebook"
+                            <Link href="https://www.facebook.com/jozionlinelanguageschool" target="_blank" aria-label="Facebook"
                                   className="text-gray-700 hover:text-gray-900 transition">
                                 <FaFacebook size={24}/>
                             </Link>
-                            <Link href="https://x.com/convofreaks" target="_blank" aria-label="X"
+                            <Link href="https://x.com/jozionlinelanguageschool" target="_blank" aria-label="X"
                                   className="text-gray-700 hover:text-gray-900 transition">
                                 <FaXTwitter size={24}/>
                             </Link>
-                            <Link href="https://www.instagram.com/convofreaks_angielski" target="_blank" aria-label="Instagram"
+                            <Link href="https://www.instagram.com/jozionlinelanguageschool" target="_blank" aria-label="Instagram"
                                   className="text-gray-700 hover:text-gray-900 transition">
                                 <FaInstagram size={24}/>
                             </Link>
-                            <Link href="https://www.tiktok.com/@convofreaks_angielski" target="_blank" aria-label="Tiktok"
+                            <Link href="https://www.tiktok.com/@jozionlinelanguageschool" target="_blank" aria-label="Tiktok"
                                   className="text-gray-700 hover:text-gray-900 transition">
                                 <FaTiktok size={24}/>
                             </Link>
-                            <Link href="https://www.linkedin.com/company/convofreaks-angielski" target="_blank" aria-label="LinkedIn"
+                            <Link href="https://www.linkedin.com/company/jozionlinelanguageschool" target="_blank" aria-label="LinkedIn"
                                   className="text-gray-700 hover:text-gray-900 transition">
                                 <FaLinkedin size={24}/>
                             </Link>
-                            <Link href="https://www.youtube.com/@convofreaks_angielski" target="_blank" aria-label="YouTube"
+                            <Link href="https://www.youtube.com/@jozionlinelanguageschool" target="_blank" aria-label="YouTube"
                                   className="text-gray-700 hover:text-gray-900 transition">
                                 <FaYoutube size={24}/>
                             </Link>

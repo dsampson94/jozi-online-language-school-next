@@ -10,12 +10,12 @@ export default function TermsAndConditions() {
                 <div className="max-w-2xl mx-auto">
                     <h1 className="text-3xl font-semibold text-gray-900">Terms and Conditions</h1>
                     <p className="mt-4 text-lg text-gray-700">
-                        At Convo Freaks, you don&apos;t sign a long-term contract. However, you must accept our rules for conducting classes. Please read through the terms carefully.
+                        At Jozi Online Language School, you don&apos;t sign a long-term contract. However, you must accept our rules for conducting classes. Please read through the terms carefully.
                     </p>
 
                     <h2 className="mt-8 text-2xl font-semibold text-gray-900">1. What are our services?</h2>
                     <p className="mt-2 text-gray-700">
-                        Convo Freaks offers individual conversational and business English classes via the Internet (Google Meet). Classes are held throughout the calendar year and are conducted by qualified native TEFL certified teachers.
+                        Jozi Online Language School offers individual conversational and business English classes via the Internet (Google Meet). Classes are held throughout the calendar year and are conducted by qualified native TEFL certified teachers.
                     </p>
 
                     <h2 className="mt-8 text-2xl font-semibold text-gray-900">2. Teaching materials</h2>
@@ -25,7 +25,7 @@ export default function TermsAndConditions() {
 
                     <h2 className="mt-8 text-2xl font-semibold text-gray-900">3. Deadlines and delays</h2>
                     <p className="mt-2 text-gray-700">
-                        The dates of classes are set individually by the student using our Calendly booking system. If a student is late, this time will be deducted from the duration of the class. If the teacher is late, this time will be added to the class time. The maximum delay for a participant is 15 minutes. If the teacher is late, please inform us immediately by clicking on the customer support button on the Convo Freaks website.
+                        The dates of classes are set individually by the student using our Calendly booking system. If a student is late, this time will be deducted from the duration of the class. If the teacher is late, this time will be added to the class time. The maximum delay for a participant is 15 minutes. If the teacher is late, please inform us immediately by clicking on the customer support button on the Jozi Online Language School website.
                     </p>
 
                     <h2 className="mt-8 text-2xl font-semibold text-gray-900">4. Rescheduling classes</h2>

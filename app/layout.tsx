@@ -33,23 +33,23 @@ export default function RootLayout({
         "@context": "http://schema.org",
         "@type": "EducationalOrganization",
         "name": "Jozi Online Language School",
-        "url": "https://www.convofreaks.com",
+        "url": "https://www.jozionlinelanguageschool.co.za",
         "description": metadata.description,
-        "logo": "https://www.convofreaks.com/cvlogo1.jpg",
+        "logo": "https://www.jozionlinelanguageschool.co.za/jols-logo.png",
         "sameAs": [
-            "https://www.facebook.com/convofreaks",
-            "https://twitter.com/convofreaks",
-            "https://instagram.com/convofreaks",
-            "https://linkedin.com/company/convofreaks",
-            "https://www.youtube.com/@convofreaks",
-            "https://tiktok.com/@convofreaks"
+            "https://www.facebook.com/jozionlinelanguageschool",
+            "https://twitter.com/jozionlinelanguageschool",
+            "https://instagram.com/jozionlinelanguageschool",
+            "https://linkedin.com/company/jozionlinelanguageschool",
+            "https://www.youtube.com/@jozionlinelanguageschool",
+            "https://tiktok.com/@jozionlinelanguageschool"
         ],
         "contactPoint": {
             "@type": "ContactPoint",
-            "telephone": "+48-501-345-039",
+            "telephone": "+27796949704",
             "contactType": "Customer Service",
-            "email": "info@convofreaks.com",
-            "url": "https://www.convofreaks.com"
+            "email": "info@jozionlinelanguageschool.com",
+            "url": "https://www.jozionlinelanguageschool.co.za"
         }
     };
 
@@ -74,14 +74,14 @@ export default function RootLayout({
             <meta property="og:title" content={metadata.title} />
             <meta property="og:description" content={metadata.description} />
             <meta property="og:type" content="website" />
-            <meta property="og:url" content="https://www.convofreaks.com" />
-            <meta property="og:image" content="https://www.convofreaks.com/cvlogo1.jpg" />
+            <meta property="og:url" content="https://www.jozionlinelanguageschool.co.za" />
+            <meta property="og:image" content="https://www.jozionlinelanguageschool.co.za/jols-logo.png" />
 
             {/* Twitter Card Meta Tags */}
             <meta name="twitter:card" content="summary_large_image" />
             <meta name="twitter:title" content={metadata.title} />
             <meta name="twitter:description" content={metadata.description} />
-            <meta name="twitter:image" content="https://www.convofreaks.com/cvlogo1.jpg" />
+            <meta name="twitter:image" content="https://www.jozionlinelanguageschool.co.za/jols-logo.png" />
 
             {/* Structured Data (Schema.org JSON-LD) */}
             <script
