@@ -31,7 +31,7 @@ const Header = () => {
                         <NavLink href={ isNotRootPage ? "/#contact" : "#contact" }>{ t('header.contact') }</NavLink>
                     </div>
                     {/* Language Switcher */ }
-                    <LanguageSwitcher/>
+                    {/*<LanguageSwitcher/>*/}
                     {/* Conditionally render the button */ }
                     { !isNotRootPage && (
                         <Button isHeader color="blue" href="#teachers" variant="solid">
